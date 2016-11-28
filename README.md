@@ -1,24 +1,5 @@
-# README
+# ng2ars-api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Backend for [ng2ars-api](https://github.com/piotrkaczmarek/ng2ars-api).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Regular Rails 5 app delegating authentication logic to [devise_token_auth gem](https://github.com/lynndylanhurley/devise_token_auth).
