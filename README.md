@@ -1,5 +1,6 @@
 # ng2ars-api
 
-Backend for [ng2ars-api](https://github.com/piotrkaczmarek/ng2ars-api).
+Backend for [ng2AuthRouterStarter](https://github.com/piotrkaczmarek/ng2AuthRouterStarter).
 
-Regular Rails 5 app delegating authentication logic to [devise_token_auth gem](https://github.com/lynndylanhurley/devise_token_auth).
+- regular Rails 5 app
+- authentication logic is handled by [devise_token_auth gem](https://github.com/lynndylanhurley/devise_token_auth).
